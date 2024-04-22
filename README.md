@@ -6,7 +6,7 @@ The Following table illustrates the progression of token level predictions throu
 The input text used during the forward pass was *"What is the capital of Washington? Answer:"*
 
 The earlier layers clearly indicate deteriorated performance, compared to their later-in-sequence counterparts.
-[Chuang, Yung-Sung, et al. "Dola: Decoding by contrasting layers improves factuality in large language models." arXiv preprint arXiv:2309.03883 (2023).]
+[Chuang, Yung-Sung, et al. "Dola: Decoding by contrasting layers improves factuality in large language models." arXiv preprint arXiv:2309.03883 (2023).](https://arxiv.org/pdf/2309.03883.pdf%E2%80%8D)
 
 <table>
   <tr>
