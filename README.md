@@ -17,7 +17,9 @@
 
 <img src="factuality/best_layer31.png" width="800" style="display: block; margin-left: auto; margin-right: auto;">
 
+# BERT Score Evaluated at Layer-level Embedding
 
+<img src="Evaluation/eval.png" width="800" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 
