@@ -3,6 +3,7 @@
 # Top K layer predictions
 
 The Following table illustrates the progression of token level predictions through out the sequential forward pass of the LLAMA-2 (alpaca fine-tuned) architecture.
+The input text used during the forward pass was *"What is the capital of Washington? Answer:"*
 
 <table>
   <tr>
