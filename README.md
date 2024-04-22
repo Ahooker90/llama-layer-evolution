@@ -1,4 +1,6 @@
-# llama-layer-evolution
+## llama-layer-evolution
+
+# Top K layer predictions
 
 <table>
   <tr>
@@ -10,3 +12,14 @@
     <td><img src="layer_level_predictions/image_32.png" width="400"></td>
   </tr>
 </table>
+
+# Facuality Check
+
+<img src="factuality/best_layer31.png" width="800" style="display: block; margin-left: auto; margin-right: auto;">
+
+
+
+
+
+
+
