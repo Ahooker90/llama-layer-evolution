@@ -2,6 +2,8 @@
 
 # Top K layer predictions
 
+The Following table illustrates the progression of token level predictions through out the sequential forward pass of the LLAMA-2 (alpaca fine-tuned) architecture.
+
 <table>
   <tr>
     <td><img src="layer_level_predictions/image_8.png" width="400"></td>
