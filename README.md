@@ -6,6 +6,7 @@ The Following table illustrates the progression of token level predictions throu
 The input text used during the forward pass was *"What is the capital of Washington? Answer:"*
 
 The earlier layers clearly indicate deteriorated performance, compared to their later-in-sequence counterparts.
+[Chuang, Yung-Sung, et al. "Dola: Decoding by contrasting layers improves factuality in large language models." arXiv preprint arXiv:2309.03883 (2023).]
 
 <table>
   <tr>
@@ -33,5 +34,7 @@ All layers were evalued on the alpaca dataset to determine their BERT score comp
 
 
 
-
+## Recreating Results:
+1. Create env using requirements.yml
+2. Run sub.py
 
